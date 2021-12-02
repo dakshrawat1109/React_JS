@@ -1,6 +1,5 @@
 Single Page Application
 
-<b>Indian Festivals</b></br></br>
 This is a Single Page Application for few blog posts of Country India, Bollywood, and Indian Festivals. </br>
 I have explained these topics in detail. After clicking on the title we will be redirected to the main blog posts which will also display date and the same image, that will replace the home page.</br>
 Once we click on the Title of each column, it will redirect us to home page. </br>
